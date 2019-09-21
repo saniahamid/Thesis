@@ -1,0 +1,1 @@
+This program takes in the grid data and uses a brute force algorithm to create a sequence for matching 3 customers to a taxi given 30 points.

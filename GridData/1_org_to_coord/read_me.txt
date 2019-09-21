@@ -1,0 +1,1 @@
+process_data_1.py takes the raw taxi trip data and keep only origin latitude, origin longitude, destination latitude and destination longitude
